@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "age": 23,
+        "city": "Dhaka",
+        "sales": 1200
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "age": 25,
+        "city": "Chittagong",
+        "sales": 950
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "age": 22,
+        "city": "Sylhet",
+        "sales": 1450
+    },
+    {
+        "id": 4,
+        "name": "Diana",
+        "age": 24,
+        "city": "Rajshahi",
+        "sales": 1100
+    }
+]
